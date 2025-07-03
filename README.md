@@ -39,4 +39,11 @@
   - [Link 2](https://www.programiz.com/python-programming/comments)
 - Variables
   - [Link 1](https://www.w3schools.com/python/python_variables.asp)
-  - 
+  - [Link 2](https://www.guru99.com/variables-in-python.html)
+  - [Link 3](https://www.tutorialspoint.com/python/python_variable_types.htm)
+  - [Link 4](https://www.geeksforgeeks.org/python-variables/)
+- Data types
+  - [Link 1](https://www.w3schools.com/python/python_datatypes.asp)
+  - [Link 2](https://www.programiz.com/python-programming/variables-datatypes)
+  - [Link 3](https://www.geeksforgeeks.org/python/python-data-types/)
+  - [Link 4](https://www.tpointtech.com/python-data-types)
