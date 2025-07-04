@@ -61,3 +61,5 @@
   - [Link 1](https://www.w3schools.com/python/python_booleans.asp)
   - [Link 2](https://www.geeksforgeeks.org/python/boolean-data-type-in-python/)
   - [Link 3](https://problemsolvingwithpython.com/04-Data-Types-and-Variables/04.02-Boolean-Data-Type/)
+- Operators
+  - [Link 1](https://www.w3schools.com/python/python_operators.asp)
