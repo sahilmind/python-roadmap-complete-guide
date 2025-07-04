@@ -47,3 +47,17 @@
   - [Link 2](https://www.programiz.com/python-programming/variables-datatypes)
   - [Link 3](https://www.geeksforgeeks.org/python/python-data-types/)
   - [Link 4](https://www.tpointtech.com/python-data-types)
+- Numbers
+  - [Link 1](https://www.w3schools.com/python/python_numbers.asp)
+  - [Link 2](https://www.tutorialspoint.com/python/python_numbers.htm)
+  - [Link 3](https://www.programiz.com/python-programming/numbers)
+  - [Link 4](https://www.geeksforgeeks.org/python/python-numbers/)
+- String
+  - [Link 1](https://www.w3schools.com/python/python_strings.asp)
+  - [Link 2](https://www.programiz.com/python-programming/string)
+  - [Link 3](https://www.tutorialspoint.com/python/python_strings.htm)
+  - [Link 4](https://www.geeksforgeeks.org/python/python-string/)
+- Booleans
+  - [Link 1](https://www.w3schools.com/python/python_booleans.asp)
+  - [Link 2](https://www.geeksforgeeks.org/python/boolean-data-type-in-python/)
+  - [Link 3](https://problemsolvingwithpython.com/04-Data-Types-and-Variables/04.02-Boolean-Data-Type/)
