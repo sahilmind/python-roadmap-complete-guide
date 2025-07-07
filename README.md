@@ -70,3 +70,13 @@
   - [Link 1](https://www.w3schools.com/python/python_casting.asp)
   - [Link 2](https://www.programiz.com/python-programming/type-conversion-and-casting)
   - [Link 3](https://www.geeksforgeeks.org/python/python-operators/)
+
+### Input and Output
+- Printing with Parameters
+  - [Link 1](https://www.geeksforgeeks.org/python/python-sep-parameter-print/)
+- Getting Input from a User
+  - [Link 1](https://www.w3schools.com/python/ref_func_input.asp)
+  - [Link 2](https://www.programiz.com/python-programming/input-output-import)
+  - [Link 3](https://www.geeksforgeeks.org/python/taking-input-in-python/)
+- String Formatting
+  - [Link 1]() 
