@@ -63,3 +63,10 @@
   - [Link 3](https://problemsolvingwithpython.com/04-Data-Types-and-Variables/04.02-Boolean-Data-Type/)
 - Operators
   - [Link 1](https://www.w3schools.com/python/python_operators.asp)
+  - [Link 2](https://www.programiz.com/python-programming/operators)
+  - [Link 3](https://www.geeksforgeeks.org/python/python-operators/)
+  - [Link 4](https://www.tutorialspoint.com/python/python_operators.htm)
+- Type casting
+  - [Link 1](https://www.w3schools.com/python/python_casting.asp)
+  - [Link 2](https://www.programiz.com/python-programming/type-conversion-and-casting)
+  - [Link 3](https://www.geeksforgeeks.org/python/python-operators/)
