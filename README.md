@@ -79,4 +79,9 @@
   - [Link 2](https://www.programiz.com/python-programming/input-output-import)
   - [Link 3](https://www.geeksforgeeks.org/python/taking-input-in-python/)
 - String Formatting
-  - [Link 1]() 
+  - [Link 1](https://www.w3schools.com/python/ref_string_format.asp)
+  - [Link 2](https://www.geeksforgeeks.org/python/python-string-format-method/)
+  - [Link 3](https://www.programiz.com/python-programming/methods/string/format)
+- String methods
+  - [Link 1](http://www.w3schools.com/python/python_ref_string.asp)
+  - [Link 2](https://www.programiz.com/python-programming/methods/string)
