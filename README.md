@@ -85,3 +85,8 @@
 - String methods
   - [Link 1](https://www.w3schools.com/python/python_ref_string.asp)
   - [Link 2](https://www.programiz.com/python-programming/methods/string)
+
+### Data Structure
+
+- List and List methods
+  - [Link 1](https://www.w3schools.com/python/python_lists.asp)
