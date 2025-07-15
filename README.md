@@ -18,7 +18,6 @@
 * Threading & Multiprocessing
 
 ### Fundamentals of Python
-
 - How to Install Python on Windows/ Linux/ Mac
   - [Link 1](https://www.guru99.com/how-to-install-python.html)
   - [Link 2](https://www.python.org/downloads/)
@@ -30,7 +29,6 @@
   - [Link 3](https://www.guru99.com/print-python-examples.html)
 
 ### Working with Data
-
 - Syntax
   - [Link 1](https://www.w3schools.com/python/python_syntax.asp)
   - [Link 2](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
@@ -87,6 +85,27 @@
   - [Link 2](https://www.programiz.com/python-programming/methods/string)
 
 ### Data Structure
-
 - List and List methods
   - [Link 1](https://www.w3schools.com/python/python_lists.asp)
+  - [Link 2](https://www.geeksforgeeks.org/python/python-lists/)
+  - [Link 3](https://www.tutorialspoint.com/python/python_lists.htm)
+  - [Link 4](https://www.tpointtech.com/python-lists)
+  - [Link 5](https://www.programiz.com/python-programming/list)
+- Tuple and Tuple methods
+  - [Link 1](https://www.w3schools.com/python/python_tuples.asp)
+  - [Link 2](https://www.tutorialspoint.com/python/python_tuples.htm)
+  - [Link 3](https://www.programiz.com/python-programming/tuple)
+  - [Link 4](https://www.geeksforgeeks.org/python/tuples-in-python/)
+  - [Link 5](https://www.tpointtech.com/python-tuples)
+- Sets and Sets methods
+  - [Link 1](https://www.w3schools.com/python/python_sets.asp)
+  - [Link 2](https://www.programiz.com/python-programming/set)
+  - [Link 3](https://www.geeksforgeeks.org/python/sets-in-python/)
+  - [Link 4](https://www.tpointtech.com/python-sets)
+  - [Link 5](https://www.tutorialspoint.com/python/python_sets.htm)
+- Dictionarty and Dictionarty methods
+  - [Link 1](https://www.w3schools.com/python/python_dictionaries.asp)
+  - [Link 2](https://www.geeksforgeeks.org/python/python-dictionary/)
+  - [Link 3](https://www.tutorialspoint.com/python/python_dictionary.htm)
+  - [Link 4](https://www.tpointtech.com/python-dictionary)
+  - [Link 5](https://www.programiz.com/python-programming/dictionary)
